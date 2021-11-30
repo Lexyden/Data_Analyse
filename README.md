@@ -1,6 +1,7 @@
 ## В этом репозитории я размещаю свои проекты по аналитике.
 | Файл (кликабельно)       | Краткое описание   | Использованные инструменты |
 | --------------------:|:------------------| :--------------------------:|
+|[taxi_churn_research](taxi_churn_research.ipynb)|Поиск причины оттока пользователей <br/> cо статистическим обоснованием (Манна-Уитни, Краскелла-Уоллиса)|`python`, `pandas`,`numpy`, `scipy`, `statsmodels`, `seaborn`, `plotly`|
 | [Bike_rental_analyze_rolling](Bike_rental_analyze_rolling.ipynb)| применение скользящего среднего| `python`, `pandas`, `numpy`, `seaborn`, `matplotlib`|
 | [Pizza_delivery_ab_test](Pizza_delivery_ab_test.ipynb)| A/B тест применения новой фичи <br/> - две группы (T-test) |   `python`, `pandas`, `numpy`, `scipy`    |
 |[Food_delivery_ab_test](Food_delivery_ab_test.ipynb) |A/B тест применения новой фичи <br/> - несколько групп (ANOVA) | `python`, `pandas`, `scipy`, `statsmodels`, `seaborn`|
